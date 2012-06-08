@@ -1,4 +1,6 @@
 #include <iostream>
+#include "consts.h"
+#include "funs.h"
 
 using namespace std;
 

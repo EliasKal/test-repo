@@ -2,7 +2,14 @@
 
 int fun1()
 {
-	return 5;
+	int res = 0;
+
+	for (var i=0; i<5; i++)
+	{
+		res += i;
+	}
+	
+	return res;
 }
 
 int fun2()
